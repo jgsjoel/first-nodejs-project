@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Joel",
+	"author": "Joel Smith",
 	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
@@ -11,6 +11,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+		"url": "https://github.com/jgsjoel/first-nodejs-project"
 	}
 }
